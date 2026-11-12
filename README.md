@@ -1,1 +1,1 @@
-this project is mainly an experimental one, which i have been trying different things to make an lower level AI model a better one with better benchmarks than its previous benchmarks and then i came across things topic called reinforcement learning. So i have been digging through it 
+this project is mainly an experimental one, which i have been trying different things to make an lower level AI model a better one with better benchmarks than its previous benchmarks and then i came across this topic called reinforcement learning. So i have been digging through it 
